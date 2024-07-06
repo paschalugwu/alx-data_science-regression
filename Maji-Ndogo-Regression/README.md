@@ -1,4 +1,4 @@
-## Comprehensive Project Report: Optimizing Agricultural Yield Using Regression and Decision Trees
+## Optimizing Agricultural Yield Using Regression and Decision Trees
 
 ### Introduction
 
@@ -8,7 +8,7 @@ In our project aimed at predicting agricultural yield using multiple linear regr
 
 #### Personal Motivation
 
-My passion for unraveling insights from diverse industries as an aspiring data scientist drove me to choose this project. With a background in Agricultural Economics and a keen interest in leveraging technology to solve real-world problems, this project aligns perfectly with my career goals. Additionally, my experience in data science and software engineering, gained from the ExploreAI data science and Holberton software engineering programs, provided me with the necessary skills to tackle this complex challenge.
+My passion for unraveling insights from diverse industries as an aspiring data scientist drove me to choose this project. With a background in Biochemistry and Bioinformatics, and a keen interest in leveraging technology to solve real-world problems, this project aligns perfectly with my career goals. Additionally, my experience in data science and software engineering, gained from the ExploreAI data science and Holberton software engineering programs, provided me with the necessary skills to tackle this complex challenge.
 
 ### Methodology
 
