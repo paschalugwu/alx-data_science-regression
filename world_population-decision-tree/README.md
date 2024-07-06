@@ -21,10 +21,12 @@ My passion for uncovering actionable insights from data across diverse industrie
 **Data Cleaning and Preprocessing**: 
 - **Handling Missing Values**: Missing population data for certain years and countries were imputed using linear interpolation to ensure continuity.
 - **Feature Engineering**: The growth rate for each year was calculated as follows:
-  $
-  \text{Growth Rate} = \frac{\text{Current Year Population} - \text{Previous Year Population}}{\text{Previous Year Population}}
-  $
-  This was only calculated from 1961 onward, due to the need for a preceding year’s population data.
+  
+$$
+\text{Growth Rate} = \frac{\text{Current Year Population} - \text{Previous Year Population}}{\text{Previous Year Population}}
+$$
+
+This was only calculated from 1961 onward, due to the need for a preceding year’s population data.
 - **Transformations**: Data was normalized where necessary to maintain consistency in model inputs.
 
 ### Exploratory Data Analysis (EDA)
